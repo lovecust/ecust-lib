@@ -7,7 +7,7 @@
 'use strict';
 
 import LocalStorageUtil from '../utils/LocalStorageUtil';
-import Library from './../../network/ecust/Library'
+import Library from './../../network/ecust/lib'
 
 
 export const ACTION_DO_REFRESH_DATA = 'ACTION_DO_REFRESH_DATA';
